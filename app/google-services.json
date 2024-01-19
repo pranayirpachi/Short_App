@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "506239134692",
+    "project_id": "short-app-d3518",
+    "storage_bucket": "short-app-d3518.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:506239134692:android:fcbb584a9a7e9836b5b5f1",
+        "android_client_info": {
+          "package_name": "com.example.short_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDATXyrvjKCVIa0lCmwbSJOQXqvJkBpito"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
